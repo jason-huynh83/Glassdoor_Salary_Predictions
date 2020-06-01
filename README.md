@@ -1,6 +1,6 @@
 # Glassdoor Data Science & Machine Learning Project
 - Developed a tool that will predict the salaries of Data Scientists (MAE ~ 11k). This was intened to help data scientists negotiate salaries during their job hunt.
-- Utilized Python and Selenium to scrape 1000 job descreiption from glassdoor, you can find the code [here](https://github.com/jason-huynh83/Glassdoor_Salary_Predictions/blob/master/glassdoor_scraper.py)
+- Utilized Python and Selenium to scrape 1000 job description from glassdoor, you can find the code [here](https://github.com/jason-huynh83/Glassdoor_Salary_Predictions/blob/master/glassdoor_scraper.py)
 - [Data cleaning](https://github.com/jason-huynh83/Glassdoor_Salary_Predictions/blob/master/data_cleaning.py) and feature engineering to create the model 
 - Exploratory Data Analysis [EDA](https://github.com/jason-huynh83/Glassdoor_Salary_Predictions/blob/master/Exploratory%20Data%20Analysis.ipynb) to grasp a better understanding and visualize the data
 - Several machine learning algorithms were utilized to test and evaluate the model predictions, and can be found [here](https://github.com/jason-huynh83/Glassdoor_Salary_Predictions/blob/master/Model%20Building.ipynb)
