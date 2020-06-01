@@ -61,5 +61,24 @@ Develop many visuals in order to understand and visualize the data better, below
 ![](Images/EDA.png) ![](Images/heatmap.png)
 ![](Images/pivot_table.png)
 
+# Model Building 
+For this model, we will use the following machine learning algorithms:
+- Multiple Linear Regression
+- Lasso Regression
+- Random Forest Regression
+
+The data was split using a train-test-split into 30% of the dataset dedicated for the test set and 70% dedicated for the training set. All three models were evaluated using MAE (mean absolute errors)
+
+# Model Evaluation
+The Random Forest Regression performed the best at a MAE: ~11.
+- **Multiple Linear Regression MAE:**  18.639299060909213
+- **Lasso Regression MAE:**  19.346117533529366
+- **Random Forest Regression MAE:**  11.579253312945974
+
+# Conclusion
+From the evaluation we can see that the Lasso Regression Model scores the worst at around 19. This is interesting as I assumed the Lasso would at least perform better than the multiple linear regression as Lasso would help with multicollinearity issues. However, it seems that the Lasso model most likely overfits the training set and thus, a higher error in the test set.
+
+The Random Forest Regressor performs the best with a MAE with around 11. In other words, using the Random Forest Regressor, we are around 11k off in salary predictions.
+
 
 
