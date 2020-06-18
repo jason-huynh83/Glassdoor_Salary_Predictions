@@ -57,6 +57,7 @@ This part of the project involved some data cleaning in order for the machine le
   - had 'SQL' in the job description
   
 # Exploratory Data Analysis (EDA)
+Please view the EDA notebook in nbviewer [here](https://nbviewer.jupyter.org/github/jason-huynh83/Glassdoor_Salary_Predictions/blob/master/Exploratory%20Data%20Analysis.ipynb)
 Develop many visuals in order to understand and visualize the data better, below are some highlights:
 ![](Images/EDA.png) ![](Images/heatmap.png)
 ![](Images/pivot_table.png)
