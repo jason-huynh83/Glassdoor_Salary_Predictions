@@ -74,7 +74,7 @@ The data was split using a train-test-split into 30% of the dataset dedicated fo
 # Model Evaluation
 The Random Forest Regression performed the best at a MAE: ~11.
 - **Multiple Linear Regression MAE:**  18.639299060909213
-- **Lasso Regression MAE:**  19.346117533529366
+- **Lasso Regression MAE:**  19.34611753352936
 - **Random Forest Regression MAE:**  11.579253312945974
 
 # Conclusion
