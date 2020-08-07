@@ -13,6 +13,7 @@
 - Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium
 - Scraper Github: https://github.com/arapfaik/scraping-glassdoor-selenium
 - Scraper Article: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
+- Jupyter Notebook referenced: https://github.com/PlayingNumbers/ds_salary_proj
   
 # The Dataset
 - The scraper utilized for this project scarped the following info:
